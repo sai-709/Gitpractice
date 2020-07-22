@@ -2,4 +2,3 @@ Orange
 Apple
 Banana
 Grapes
-Milk
